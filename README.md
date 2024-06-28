@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Meu primeiro avatar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um avatar com IA que utilize imagem e faça a tradução de texto para voz, que recite o pema da contadição.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para essa atividade utilizaremos:
+1- o Chat GPT para criar o poema
+2- D-ID para criar o avatar e transformar o texto em voz.
+
+ o D-id.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acesse o chat gpt, inicie o primeiro paragrafo do poema da contradiçãe peça para ele continuar.
+Em seguida acesse o D-id.com crie seu avatar, escolha a vóz desejada e cole o poema no campo de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para visualizar o resultado acesse: https://studio.d-id.com/share?id=885b7d8ce276c8548c05c382a088b1b2&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Projeto fantastico!!!
 ```
 
 ### Exemplos e Insigths
